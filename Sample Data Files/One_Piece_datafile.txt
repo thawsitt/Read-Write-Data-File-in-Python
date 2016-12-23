@@ -1,0 +1,18 @@
+00. Last Updated--------------: Dec 23 2016 02:56:04
+01. anime_name----------------: One_Piece
+02. episode_num---------------: 523
+03. quality-------------------: 720p
+04. fansubs-------------------: Yibis
+05. short_file_name-----------: op
+06. crf_value-----------------: 20
+07. output_file_name----------: "(Hi10)_One_Piece_-_523_(720p)_(Yibis).mkv"
+08. source_file_name----------: "op523.mkv"
+09. video_file_name-----------: "op523_Encoded.mkv"
+10. video_title---------------: "0:Hi10 Encode @ CRF 20"
+11. audio_file_name-----------: "op523-Audio.aac"
+12. audio_title---------------: "0:2.0 AAC-LC @ 0.4"
+13. chapter_file_name---------: "op523_Chapter.xml"
+14. sub_track_name------------: "op523_Subtitle_Trimmed_2.ass"
+15. sub_description-----------: "0:Yibis (.ass)"
+16. sub_track_name_2----------: "op523_Subtitle_Trimmed_1.ass"
+17. sub_description_2---------: "0:Yibis (no honorifics) (.ass)"

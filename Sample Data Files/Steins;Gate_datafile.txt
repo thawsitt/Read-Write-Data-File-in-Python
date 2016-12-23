@@ -1,0 +1,18 @@
+00. Last Updated--------------: Dec 23 2016 02:56:44
+01. anime_name----------------: Steins;Gate
+02. episode_num---------------: 1
+03. quality-------------------: 1080p
+04. fansubs-------------------: Steins_Subs
+05. short_file_name-----------: sg
+06. crf_value-----------------: 21
+07. output_file_name----------: "(Hi10)_Steins;Gate_-_01_(1080p)_(Steins_Subs).mkv"
+08. source_file_name----------: "sg1.mkv"
+09. video_file_name-----------: "sg1_Encoded.mkv"
+10. video_title---------------: "0:Hi10 Encode @ CRF 21"
+11. audio_file_name-----------: "sg1-Audio.aac"
+12. audio_title---------------: "0:2.0 AAC-LC @ 0.4"
+13. chapter_file_name---------: "sg1_Chapter.xml"
+14. sub_track_name------------: "sg1_Subtitle_Trimmed_2.ass"
+15. sub_description-----------: "0:Steins_Subs (.ass)"
+16. sub_track_name_2----------: "sg1_Subtitle_Trimmed_1.ass"
+17. sub_description_2---------: "0:Steins_Subs (no honorifics) (.ass)"

@@ -1,0 +1,18 @@
+00. Last Updated--------------: Dec 23 2016 02:54:57
+01. anime_name----------------: Bleach
+02. episode_num---------------: 200
+03. quality-------------------: 480p
+04. fansubs-------------------: Horrible_Subs
+05. short_file_name-----------: bl
+06. crf_value-----------------: 20
+07. output_file_name----------: "(Hi10)_Bleach_-_200_(480p)_(Horrible_Subs).mkv"
+08. source_file_name----------: "bl200.mkv"
+09. video_file_name-----------: "bl200_Encoded.mkv"
+10. video_title---------------: "0:Hi10 Encode @ CRF 20"
+11. audio_file_name-----------: "bl200-Audio.aac"
+12. audio_title---------------: "0:2.0 AAC-LC @ 0.4"
+13. chapter_file_name---------: "bl200_Chapter.xml"
+14. sub_track_name------------: "bl200_Subtitle_Trimmed_2.ass"
+15. sub_description-----------: "0:Horrible_Subs (.ass)"
+16. sub_track_name_2----------: "bl200_Subtitle_Trimmed_1.ass"
+17. sub_description_2---------: "0:Horrible_Subs (no honorifics) (.ass)"
