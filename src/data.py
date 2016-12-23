@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 
 '''
-File: data.py (v1.0)
+File: data.py (v1.0.1)
 --------------------
 Read/Write the data file of an anime for merge.py
 
